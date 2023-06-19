@@ -18,5 +18,10 @@
       "icon": "play-circle-outline",
       "name": "Button",
       "redirectTo": "/button"
+    },
+    {
+      "icon": "clipboard-outline",
+      "name": "Input",
+      "redirectTo": "/input"
     }
   ]
