@@ -15,7 +15,7 @@
       "redirectTo": "/avatar"
     },
     {
-      "icon": "person-circle-outline",
+      "icon": "play-circle-outline",
       "name": "Button",
       "redirectTo": "/button"
     },
