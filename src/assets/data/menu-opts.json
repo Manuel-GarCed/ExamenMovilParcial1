@@ -23,5 +23,10 @@
       "icon": "clipboard-outline",
       "name": "Input",
       "redirectTo": "/input"
+    },
+    {
+      "icon": "add-outline",
+      "name": "Input Exam",
+      "redirectTo": "/input-examen"
     }
   ]
